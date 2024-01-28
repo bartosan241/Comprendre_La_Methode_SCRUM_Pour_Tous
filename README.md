@@ -6,4 +6,4 @@ J'ai voulu donner à ce guide une explication claire et facile à comprendre de 
 
 J'espère contribuer à une meilleure compréhension des pratiques agiles et à l'amélioration des processus de développement de projets pour tous les intéressés en partageant mes connaissances sur Scrum. 
 
-Vous trouverez 5 volets qui vous permettra de rapidement vous familiarisé avec la methode SCRUM 
+Vous trouverez 5 volets qui vous permettra de rapidement vous familiarisé avec la methode SCRUM avec des exemple concret du quotidien d'une équipe SCRUM
